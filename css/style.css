@@ -163,7 +163,7 @@ header{
 
 .getStarted{
     font-weight: bold !important;
-    background-color: rgb(229, 9, 20) !important;
+    background-color: rgb(9, 82, 229) !important;
 }
 
 
@@ -235,7 +235,7 @@ header{
 /* footer starts */
 
 #footerUl li:active > a{
-    color: red !important;
+    color: rgb(214, 229, 9) !important;
 }
 
 #langDrop3.langDropShow3{
@@ -249,6 +249,7 @@ header{
 
 }
 
+
 footer #langDrop3{
     min-width: 8.8rem !important;
     max-width: 8.8rem !important;
@@ -260,6 +261,7 @@ footer .col-3 {
 }
 
 
+
 @media only screen and (max-width: 1000px) {
     #footerUl li{
         width: 50% !important;
@@ -269,6 +271,7 @@ footer .col-3 {
     }
     
 }
+
 /* footer ends */
 
 

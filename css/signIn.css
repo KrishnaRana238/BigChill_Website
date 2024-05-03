@@ -129,7 +129,7 @@ footer{
 
 
 #footerUl li:active > a{
-    color: red !important;
+    color: rgb(214, 229, 9) !important;
 }
 
 #langDrop2.langDropShow2{

@@ -25,7 +25,7 @@
 }
 
 #signIn:hover{
-    background-color: #c11119 !important;
+    background-color: rgb(214, 229, 9) !important;
 }
 
 /* navbar ends */
@@ -36,7 +36,7 @@
 .searchControlWrapper{
     padding: 2px;
     border-radius: 4px;
-    background: linear-gradient(to right, #e50914 -0.08%, #c94ff5 81.14%, #5b79f1 99.92%);
+    background: linear-gradient(to right, rgb(214, 229, 9) -0.08%, #c94ff5 81.14%, #5b79f1 99.92%);
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 .inputControl{
